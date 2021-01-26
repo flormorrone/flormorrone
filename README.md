@@ -1,4 +1,4 @@
-![Screenshot](fm.jpg)
+<img src="fm.jpg" width="100%">
 
 ## Hola gente! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
