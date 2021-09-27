@@ -18,8 +18,7 @@ Todos los proyectos que se encuentran en mis repos son practicas que surgieron e
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-🌱Actualmente estoy estudiando ![CSS3](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) y
-![CSS3](https://img.shields.io/badge/-React-61dbfb?style=flat-square&logo=react&logoColor=white)
+🌱Actualmente estoy estudiando ![CSS3](https://img.shields.io/badge/-React-61dbfb?style=flat-square&logo=react&logoColor=white)
 
 
 
