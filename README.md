@@ -1,4 +1,4 @@
-<img src="hero-gitgub.png" width="100%">
+<img src="hero-github.png" width="100%">
 
 ## Hola gente! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
