@@ -19,7 +19,7 @@ I'm currently studying node JS to take my projects to the next step. 🚀
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![NodeJs](https://img.shields.io/badge/-NodeJS-61dbfb?style=flat-square&logo=node&logoColor=green)
+![NodeJs]([https://img.shields.io/badge/-NodeJS-61dbfb?style=flat-square&logo=node&logoColor=green](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white))
 
 
 
