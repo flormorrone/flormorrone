@@ -4,7 +4,7 @@
 
 I'm Flor, a frontend developer currently developing Angular projects. I've been working in IT since early 2021 and I love it!
 
-I'm also studying node JS to take my projects to the next step. 🚀
+I'm also studying node JS to take my projects to the next level. 🚀
 
 
 
