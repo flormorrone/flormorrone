@@ -4,11 +4,13 @@
 
 👋🏼 I'm Flor, a frontend developer currently developing Angular projects.
 
+🎓 I have an associate degree in software development 2019-2021.
+
 👷🏽‍♀️ I've been working in IT since early 2021 and I love it!
 
 🚀 I'm also studying node JS to take my projects to the next level.
 
-🎓 Associate degree in software development 2019-2021.
+
 
 
 
