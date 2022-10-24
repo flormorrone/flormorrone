@@ -2,9 +2,13 @@
 
 ## Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
-I'm Flor, a frontend developer currently developing Angular projects. I've been working in IT since early 2021 and I love it!
+👋🏼 I'm Flor, a frontend developer currently developing Angular projects.
 
-I'm also studying node JS to take my projects to the next level. 🚀
+👷🏼‍♀️ I've been working in IT since early 2021 and I love it!
+
+🚀 I'm also studying node JS to take my projects to the next level.
+
+🎓 Associate degree in software development 2019-2021.
 
 
 
